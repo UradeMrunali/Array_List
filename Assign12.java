@@ -9,8 +9,6 @@ public class Assign12 {
 		s.add("Orange");
 		s.add("White");
 		s.add("Black");
-		
-
 		System.out.println("List:"+ s);
 		
 		s.subList(0, 3);
