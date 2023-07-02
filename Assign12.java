@@ -4,7 +4,6 @@ import java.util.List;
 public class Assign12 {
 	public static void main(String[] args) {
 		List s=new ArrayList();
-		
 		s.add("Red");
 		s.add("Green");
 		s.add("Orange");
